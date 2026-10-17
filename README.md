@@ -1,5 +1,6 @@
-
-Hey there, I'm Sidra Sheikh!<br>Passionate Aspiring Data Analyst <br><br>📊 Driven by curiosity to analyze trends, solve real-world problems, and deliver impactful data narratives.<br><br>🛠️ Tech Toolkit: Python 🐍 | SQL ⚡ | Excel 📑 | Power BI 🪄 | Tableau 📊<br><br>🎯 Currently expanding my skills in Data Science, Machine Learning, Feature Engineering, and Predictive Modeling.<br><br>💌 Let's connect: sidrasheikh282@gmail.com
+# Hey there, glad you're here! 👋
+## I'm Sidra Sheikh
+<br>Passionate Aspiring Data Analyst <br><br>📊 Driven by curiosity to analyze trends, solve real-world problems, and deliver impactful data narratives.<br><br>🛠️ Tech Toolkit: Python 🐍 | SQL ⚡ | Excel 📑 | Power BI 🪄 | Tableau 📊<br><br>🎯 Currently expanding my skills in Data Science, Machine Learning, Feature Engineering, and Predictive Modeling.<br><br>💌 Let's connect: sidrasheikh282@gmail.com
 
 
 ## 🌐 Socials:
