@@ -17,8 +17,7 @@ You bring the snacks, I'll bring the code 🍪💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-sheikh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidrasheikh282@gmail.com)
 
-# 💻 Tech Stack:
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack 
 
 ### 📊 Data Analytics & Business Intelligence
 
