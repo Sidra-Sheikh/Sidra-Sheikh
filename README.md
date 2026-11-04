@@ -1,15 +1,32 @@
-# 🌸 Hey there, I'm so glad you're here!
+<h1 align="center">
+  <h1 align="center">
+  🌸 Hey there, I'm so glad you're here!
+</h1>
 
-Welcome to my little corner of GitHub!  
-I'm passionate about growing in my career, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun). Here, you'll find:
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=32&pause=1200&color=B99AFF&center=true&vCenter=true&width=750&height=65&lines=Data+Analyst+%7C+Building+Cool+Things" />
+</p>
+
+<div align="center">
+
+<p>
+  Welcome to my little corner of GitHub!
+</p>
+
+<p>
+  I'm passionate about growing in my career, picking up new tech skills and making my work life a little less overwhelming (and a lot more fun).  Here, you'll find:
+</p>
+
+</div>
 
 * 🛠️ Projects I'm building or contributing to
 * 📚 Things I've learned while juggling work, deadlines, and debugging
-* 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
+* 🌱 Bits of inspiration for anyone trying to survive and thrive in the corporate jungle
 
 Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—**you're in the right place!** 🫶
 
-**Let's connect, learn, and grow together—one repo at a time.**  
+**Let's connect, learn, and grow together one repo at a time.**  
 You bring the snacks, I'll bring the code 🍪💻
 
 ## 🌐 Socials:
@@ -54,12 +71,17 @@ You bring the snacks, I'll bring the code 🍪💻
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sidra-Sheikh&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sidra-Sheikh&theme=neon&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sidra-Sheikh&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center"> Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/FF69B4/Sidra-Sheikh"
+    alt="Sidra's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sidra-Sheikh&icon=7&color=10)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Sidra-Sheikh&color=FF69B4&style=for-the-badge)
