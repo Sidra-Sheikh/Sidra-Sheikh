@@ -13,8 +13,8 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 You bring the snacks, I'll bring the code 🍪💻
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/isidra_sheikh?srtk=MTlhc2pnbHN0b3RiaQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidra-sheikh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidrasheikh282@gmail.com) 
+[![Instagram](https://www.instagram.com/isidra_sheikh?srtk=MTlhc2pnbHN0b3RiaQ==)[!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidra-sheikh) [! [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidrasheikh282@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
